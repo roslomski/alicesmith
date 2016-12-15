@@ -121,6 +121,7 @@ header {
 }
 .logo:hover {
     color: #B45737;
+    transition: all 0.15s ease-in-out;
 }
 
 /* NAV */
@@ -142,6 +143,7 @@ header {
 .active a {
     background-color: transparent;
     color: #B45737;
+    transition: all 0.15s ease-in-out;
 }
 
 /* PAGE HEADER */
@@ -187,6 +189,7 @@ footer a {
 footer a:hover {
     text-decoration: underline;
     color: rgb(119, 117, 119);
+    transition: all 0.15s ease-in-out;
 }
 
 /*.pull-right {
@@ -233,6 +236,7 @@ article {
 }
 .btn:hover {
     background-color: #fff;
+    transition: all 0.15s ease-in-out;
 }
 .center {
     text-align: center;
@@ -240,6 +244,7 @@ article {
 }
 .center a:hover {
     font-weight: bold;
+    transition: all 0.15s ease-in-out;
 }
 .center h3 {
     text-transform: uppercase;
@@ -384,6 +389,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .logo:hover {
         color: #B45737;
+        transition: all 0.15s ease-in-out;
     }
     header {
         margin-top: 64px;
@@ -423,6 +429,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     footer a:hover {
         text-decoration: underline;
         color: rgb(119, 117, 119);
+        transition: all 0.15s ease-in-out;
     }
     .pull-right {
         float: right;
@@ -474,6 +481,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     .active a {
         background-color: transparent;
         color: #B45737;
+        transition: all 0.15s ease-in-out;
     }
     /*Button*/
     .btn {
@@ -495,6 +503,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .btn:hover {
         background-color: #fff;
+        transition: all 0.15s ease-in-out;
     }
     /* ASIDE */
     .sidebar p {
@@ -527,6 +536,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .center a:hover {
         font-weight: bold;
+        transition: all 0.15s ease-in-out;
     }
     .center h3 {
         text-transform: uppercase;
@@ -632,6 +642,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .logo:hover {
         color: #B45737;
+        transition: all 0.15s ease-in-out;
     }
     /* NAV */
     .nav {
@@ -662,6 +673,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     .active a {
         background-color: transparent;
         color: #B45737;
+        transition: all 0.15s ease-in-out;
     }
     /* HEADER */
     header {
@@ -702,6 +714,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     footer a:hover {
         text-decoration: underline;
         color: rgb(119, 117, 119);
+        transition: all 0.15s ease-in-out;
     }
     .pull-right {
         float: right;
@@ -769,6 +782,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .btn:hover {
         background-color: #fff;
+        transition: all 0.15s ease-in-out;
     }
     .center {
         text-align: center;
@@ -776,6 +790,7 @@ font-family: ‘Open Sans’, sans-serif;*/
     }
     .center a:hover {
         font-weight: bold;
+        transition: all 0.15s ease-in-out;
     }
     .center h3 {
         text-transform: uppercase;
